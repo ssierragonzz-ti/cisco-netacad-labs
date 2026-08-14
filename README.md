@@ -6,7 +6,7 @@ en IT y ciberseguridad.
 
 ## Cursos completados
 
-- ✅ [Networking Basics](./01-networking-basics) — 22h — [Credencial](link-credly)
+- ✅ Networking Basics — 22h 
 - ⬜ Network Addressing and Basic Troubleshooting — 14h
 - ⬜ Network Support and Security — 12h
 - ⬜ Networking Devices and Initial Configuration — 22h
